@@ -12,3 +12,4 @@ function sumaAll(a, b){
 }
 
 sumaAll(1,4);
+sumaAll(3,2);
